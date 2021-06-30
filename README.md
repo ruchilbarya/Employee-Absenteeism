@@ -13,8 +13,7 @@ The main components of this project are
 * Model Evaluation 
 
 # Data
-The raw database is the information collected records of absenteeism from work during
-the period of July/07 to July/2010 in a Courier company.(Data is acquired from [UCI machine learning Repository](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work))
+The raw database is the information collected records of absenteeism from work during in a Courier company.(Data is acquired from [UCI machine learning Repository](https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work))
 
 # Results 
 
